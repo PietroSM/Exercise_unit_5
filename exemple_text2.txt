@@ -1,9 +1,6 @@
-En el corazón de la ciudad, donde las luces parpadean como estrellas en la noche, se 
-encuentra un rincón tranquilo y escondido. En ese lugar, el tiempo se detiene y 
-los susurros de la vida cotidiana se desvanecen en la brisa. Es un refugio para 
-aquellos que buscan un momento de paz en medio del caos urbano. Aquí, entre las 
-sombras y los secretos, los sueños encuentran un lugar para florecer.
-
-
-
-By Pedro
+commit for step 5: Bajo el cálido sol de verano, 
+las olas del mar besan suavemente la orilla de la playa. La arena dorada 
+se extiende hacia el horizonte, invitando a los paseantes a dejar sus huellas 
+efímeras. Niños riendo, castillos de arena y conchas esparcidas crean un escenario 
+de alegría. En este rincón de tranquilidad, el tiempo se desvanece y solo queda la 
+eternidad del mar y el sol.
