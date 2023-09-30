@@ -1,0 +1,12 @@
+----Commit for step 5----
+git init
+git add exemple_text2.txt
+git commit -m "commit for step 5"
+git push
+
+----Commit for step 6----
+git init
+touch exemple_text_4.txt
+git add exemple_text_4.txt
+git commit -m "commit for step 6"
+git push
